@@ -4,7 +4,7 @@ import routes from "./routes/index.js";
 
 const connection = await dbConnect();
 connection.on("error", (erro) => {
-    console.error("Erro ao tentar se conectar com o banco de dados: " + erro);
+    console.error("Erro ao tentar se conectar com o banco de dados: " , erro);
 });
 
 connection.once("open", () => {
