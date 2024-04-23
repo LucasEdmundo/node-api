@@ -86,4 +86,5 @@ class LivroController {
         }
 };
 
-export default LivroController; // exportando o controller para ser utilizado em outros arquivos
+export default LivroController; 
+
