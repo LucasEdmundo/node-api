@@ -1,6 +1,6 @@
 # Projeto de Exemplo: API em Node.js
 
-Este projeto faz parte do curso de Desenvolvimento Web do Senai e tem como objetivo fornecer um exemplo básico de como criar uma API em Node.js.
+Este projeto faz parte do curso de Desenvolvimento Web JavaScript do Senai e tem como objetivo fornecer um exemplo básico de como criar uma API em Node.js.
 
 ## Descrição
 
